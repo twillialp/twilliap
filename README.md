@@ -1,6 +1,7 @@
 # twilliap
 Github Profile
 Tech Experience:
+<p>
 <i class="devicon-amazonwebservices-plain-wordmark colored"></i>
 <i class="devicon-android-plain-wordmark colored"></i>
 <i class="devicon-atom-original colored"></i>
@@ -30,3 +31,4 @@ Tech Experience:
 <i class="devicon-wordpress-plain colored"></i>
 <i class="devicon-salesforce-plain colored"></i>
 <i class="devicon-react-original colored"></i>
+</p>
