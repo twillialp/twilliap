@@ -1,16 +1,13 @@
-# Hi there, I'm [Your Name]! 👋
-
+# Addy Williams, Full-Stack Developer ✨
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a former **chemistry teacher turned developer** with experience in **the MERN stack**. I enjoy tinkering through complex problems and devloping my reasoning skills.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **Chrome APIs** I'm building my first chrome extension!
+- 📫 How to reach me: **awilldesign.com**
+- ⚡ Fun fact: **I taught myself to juggle in 54 minutes**
 
 ## My Skills 🧠
 
@@ -41,42 +38,3 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 - **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn]**(your_linkedin_profile_link)
 - **[Twitter]**(your_twitter_profile_link)
-
-
-
-
-
-# twilliap
-Github Profile
-Tech Experience:
-<p>
-<i class="devicon-amazonwebservices-plain-wordmark colored"></i>
-<i class="devicon-android-plain-wordmark colored"></i>
-<i class="devicon-atom-original colored"></i>
-<i class="devicon-azuresqldatabase-plain colored"></i>
-<i class="devicon-chrome-plain"></i>
-<i class="devicon-cpanel-original"></i>
-<i class="devicon-css3-plain"></i>
-<i class="devicon-docker-plain"></i>
-<i class="devicon-drupal-plain"></i>
-<i class="devicon-express-original"></i>
-<i class="devicon-figma-plain"></i>
-<i class="devicon-gimp-plain colored"></i>
-<i class="devicon-filezilla-plain"></i>
-<i class="devicon-github-original colored"></i>
-<i class="devicon-illustrator-plain"></i>
-<i class="devicon-jquery-plain"></i>
-<i class="devicon-kubernetes-plain"></i>
-<i class="devicon-linux-plain colored"></i>
-<i class="devicon-nextjs-plain colored"></i>
-<i class="devicon-nginx-original colored"></i>
-<i class="devicon-nodemon-plain colored"></i>
-<i class="devicon-php-plain"></i>
-<i class="devicon-typescript-plain colored"></i>
-<i class="devicon-vercel-original colored"></i>
-<i class="devicon-vscode-plain colored"></i>
-<i class="devicon-woocommerce-plain colored"></i>
-<i class="devicon-wordpress-plain colored"></i>
-<i class="devicon-salesforce-plain colored"></i>
-<i class="devicon-react-original colored"></i>
-</p>
