@@ -21,9 +21,9 @@ I'm a former **chemistry teacher turned developer** with experience in **the MER
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### Roguelike STEM Adventure(https://stembookclub.com/online/)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Project 1 Screenshot]((http://awilldesign.com/wp-content/uploads/2026/01/STEM-Roguelike-Screenshot.png)
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
@@ -35,6 +35,6 @@ I'm a former **chemistry teacher turned developer** with experience in **the MER
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **awilldesign.com]**(your_website_or_blog_link)
+- **[http://awilldesign.com/wp-content/uploads/2026/01/STEM-Roguelike-Screenshot.png]**(your_linkedin_profile_link)
+  
