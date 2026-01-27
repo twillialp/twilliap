@@ -17,11 +17,9 @@ I'm a former **chemistry teacher turned developer** with experience in **the MER
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
-
 ## Featured Projects 💻
 
-### Roguelike STEM Adventure(https://stembookclub.com/online/)
+### Roguelike STEM Adventure (https://stembookclub.com/online/)
 
 ![Project 1 Screenshot]((http://awilldesign.com/wp-content/uploads/2026/01/STEM-Roguelike-Screenshot.png)
 
