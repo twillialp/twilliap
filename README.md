@@ -31,6 +31,9 @@ I'm a former **chemistry teacher turned developer** with experience in **the MER
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
+
+
+
 ## Get in Touch 📬
 
 - **awilldesign.com]**
